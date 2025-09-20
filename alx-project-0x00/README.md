@@ -35,3 +35,12 @@ Each `Card` includes:
 - Title, location, rating, and price
 
 Demonstrates modular design and reusability.
+
+## TypeScript Interfaces
+
+Defined `PillProps` interface in `interfaces/index.ts` to type the `Pill` component.
+
+This enables:
+- Prop validation
+- Reusability across components
+- Cleaner, scalable architecture
