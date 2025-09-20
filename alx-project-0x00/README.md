@@ -44,3 +44,14 @@ This enables:
 - Prop validation
 - Reusability across components
 - Cleaner, scalable architecture
+
+## Button Component
+
+Created a reusable `Button` component with dynamic props:
+- `title`: button label
+- `styles`: Tailwind CSS classes for size and shape
+
+Used in `/landing` page with variations:
+- Small, Medium, Large
+- Rounded-sm, rounded-md, rounded-full
+
