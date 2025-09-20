@@ -24,3 +24,14 @@ Created reusable components:
 Images used:
 - `/public/assets/images/house.png`
 - `/public/assets/images/star.png`
+
+## Component Usage
+
+Used the `Card` component inside the `Landing` page to render multiple property listings.
+
+Each `Card` includes:
+- Static image
+- Dynamic `Pill` components with props
+- Title, location, rating, and price
+
+Demonstrates modular design and reusability.
