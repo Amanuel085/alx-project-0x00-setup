@@ -14,3 +14,13 @@ Implemented basic routing using Next.js Pages Router.
 Routes added:
 - `/landing` → Landing Page
 - `/about` → About Page
+
+## Components
+
+Created reusable components:
+- `Card`: displays property listing with image, title, location, rating, and price
+- `Pill`: dynamic label component used inside `Card`
+
+Images used:
+- `/public/assets/images/house.png`
+- `/public/assets/images/star.png`
